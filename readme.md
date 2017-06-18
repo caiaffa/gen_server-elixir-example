@@ -1,4 +1,4 @@
-# elixit GenServer shopping cart example
+# elixir GenServer shopping cart example
 
 it can:
 - start a process holding a shopping list state
